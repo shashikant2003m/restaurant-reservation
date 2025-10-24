@@ -91,7 +91,7 @@ MONGO_URI=your_mongodb_connection_string
 
 ## 📸 Screenshots
 
-![[Screenshot (68).png]]
+![[Screenshot (1).png]]
 
 ![[Screenshot (69).png]]
 
