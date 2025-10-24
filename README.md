@@ -91,21 +91,21 @@ MONGO_URI=your_mongodb_connection_string
 
 ## 📸 Screenshots
 
-![[Screenshot (1).png]]
+### 🏠 Home Page
+![Home Page](./Screenshot%20(1).png)
 
-![[Screenshot (69).png]]
+### 🍴 Menu Management
+![Menu Management](./Screenshot%20(2).png)
 
-![[Screenshot (70).png]]
+### 📅 Reservation Dashboard
+![Reservation Dashboard](./Screenshot%20(3).png)
 
-![[Screenshot (71).png]]
+### 👥 Customer Management
+![Customer Management](./Screenshot%20(4).png)
 
-![[Screenshot (72).png]]
+### 📊 Admin Overview
+![Admin Overview](./Screenshot%20(5).png)
 
-![[Screenshot (73).png]]
-
-![[Screenshot (74).png]]
-
-![[Screenshot (75).png]]
 
 ---
 
