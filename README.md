@@ -1,7 +1,7 @@
 # 🍽️ Restaurant Management System
 
 A full-stack **Restaurant Management Web Application** built using **React (Vite)** for the frontend, **Express.js** for the backend, and **MongoDB** for the database.  
-This project allows restaurant owners or staff to manage reservations, menus, and customer data efficiently through a clean and interactive UI.
+This project allows restaurant owners or staff to manage reservations and book tables, menus, and customer data efficiently through a clean and interactive UI.
 
 ---
 
