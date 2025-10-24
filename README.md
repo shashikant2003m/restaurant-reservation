@@ -91,19 +91,14 @@ MONGO_URI=your_mongodb_connection_string
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
 ![Home Page](./Screenshot%20(1).png)
 
-### 🍴 Menu Management
 ![Menu Management](./Screenshot%20(2).png)
 
-### 📅 Reservation Dashboard
 ![Reservation Dashboard](./Screenshot%20(3).png)
 
-### 👥 Customer Management
 ![Customer Management](./Screenshot%20(4).png)
 
-### 📊 Admin Overview
 ![Admin Overview](./Screenshot%20(5).png)
 
 
